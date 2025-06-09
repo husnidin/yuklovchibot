@@ -1,0 +1,2 @@
+# yuklovchibot
+Telegramda yuklovchi bot
